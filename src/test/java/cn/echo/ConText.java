@@ -1,4 +1,4 @@
-package cn.echo.xutil;
+package cn.echo;
 
 import cn.echo.dao.CustomerDao;
 import cn.echo.dao.ProductinfoDao;
