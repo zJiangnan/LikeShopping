@@ -42,7 +42,7 @@
                 <c:forEach var="rec" items="${sessionScope.cosmetics}" varStatus="vs">
                     <tr style="text-align: center">
                             <%--                        这里不使用从数据拿到ID--%>
-                        <td>${vs.count}</td>
+                        <td id="${rec.id}">${vs.count}</td>
                         <td>${rec.name}</td>
                         <td>${rec.description}</td>
                         <td>${rec.sellprice}</td>

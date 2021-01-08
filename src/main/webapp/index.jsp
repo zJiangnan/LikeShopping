@@ -30,7 +30,7 @@
         <!-- 头部区域（可配合layui已有的水平导航） -->
         <ul class="layui-nav layui-layout-left">
             <li class="layui-nav-item"><a href="index.jsp">首页</a></li>
-            <li class="layui-nav-item"><a href="">热销</a></li>
+            <li class="layui-nav-item"><a href="productClassifyServlet?method=recommended" target="content">热销</a></li>
             <li class="layui-nav-item">
                 <a href="javascript:;">其它</a>
                 <dl class="layui-nav-child">

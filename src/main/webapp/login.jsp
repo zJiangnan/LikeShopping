@@ -17,6 +17,9 @@
         .cls {
             margin-top: 100px;
         }
+        body{
+            background-image: url("img/loginbgck.jpg");
+        }
     </style>
 </head>
 <body>

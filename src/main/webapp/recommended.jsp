@@ -26,7 +26,7 @@
     <div>
         <div style="padding: 15px;">
             <%--菜单表--%>
-            <button type="button" class="layui-btn"><i name="update">推荐喜歡</i>
+            <button type="button" class="layui-btn"><i name="update">你的喜歡</i>
             </button>
             <table class="layui-table">
                 <tr>

@@ -30,7 +30,8 @@
 <%--                右下角购买--%>
             </table>
                 <div style="position: absolute;left: 950px;">
-                    <span style="font-size: 28px">总金额<span id="m" style="color: red;font-size: 21px">123</span>元</span>
+                    <span style="font-size: 28px">总金额<span id="m" style="color: red;font-size: 21px">739</span>元
+                    </span>
                     <button class="layui-btn layui-btn-lg layui-btn-danger" lay-event="buy">立即购买</button>
                 </div>
         </div>
